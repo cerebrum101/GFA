@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "GFA",
+    pageTitle: "Guide for Applicants",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "www.guideforapplicnats.live",
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
