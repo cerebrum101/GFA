@@ -4,29 +4,33 @@ enableToc: true
 openToc: false
 ---
 
-Guide for Applicants
-A non profit project that helps students all across the globe with applying and getting into desired universities!
-- Instagram: https://www.instagram.com/guideforapplicants
-- Telegram channel: https://t.me/guideforapplicants_c
-- Telegram chat: https://t.me/guideforapplicants
-  
-  
-# Getting started:
+# Добро пожаловать
 
-### Как поступить в страну:
-[[How to get accepted to Germany | Германия]], 
+Добро пожаловать на сайт GFA — некоммерческого проекта, который помогает студентам со всего мира успешно поступить в желаемые университеты!
 
-[[How to get accepted to Italy | Италия]], 
+Наши ресурсы помогут вам эффективно освоить информацию, связанную с поступлением в вузы по всему миру.
 
-[[Applying to France | Франция]], 
+## О сайте
 
-### О стандартизированных экзаменах:
+- Все статьи на сайте удобно связаны между собой с помощью гиперссылок и тегов.
+- Для просмотра связей на каждой странице статьи внизу есть "Graph View" с ближайшими соседями текущей страницы. 
+- При нажатии на иконку в правом верхнем углу окна, вы сможете рассмотреть полный граф всех статей на сайте.
+- Удобная навигация через поиск
 
-[[IELTS info]] ,
-[[TOEFL VS IELTS]] , 
+## О нас
 
+Мы — абитуриенты, школьники и студенты лучших школ и университетов Казахстана.
 
+## Что дальше?
 
+Исследуйте сайт, начиная с следующих разделов:
+[[How to get Accepted into Country X| Как поступить в страну X]]
+[[Standardized Tests ]]
+[[how to get into MIT | Как поступить в MIT]]
+[[How to get into NU | Как поступить в Назарбаев Университет]]
 
-
+Следите за нами в социальных сетях:
+- [Instagram](https://www.instagram.com/guideforapplicants) 
+- Telegram [канал](https://t.me/guideforapplicants_c) с регулярными новостями и новыми постами
+- Telegram [чат](https://t.me/guideforapplicants) для общения с единомышленниками
 
