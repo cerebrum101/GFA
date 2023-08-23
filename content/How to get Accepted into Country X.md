@@ -6,7 +6,10 @@ openToc: false
 
 #### !!!Процесс подачи заявки во многие страны и вузы примерно одинаков, эталоном можно считать подачу в США.  Однако, подача в различные ВУЗы в одной стране может быть кардинально разной. В следующих статьях мы собрали по обобщенному гайду о подаче в ту или иную страну .
 
-[[How to get accepted to Germany]]
-[[How to get accepted to Italy]]
-[[Applying to France]]
-[[Applying to Turkey]]
+
+- [[How to get accepted to Germany | Как поступить в Германию]] 
+- [[How to get accepted to Italy | Как поступить в Италию]]
+- [[Applying to France | Как поступить во Францию]]
+- [[Applying to Turkey | Подача в Турцию]]
+
+
