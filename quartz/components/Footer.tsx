@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
       <footer>
         <hr />
         <p>
-          Made by <a href="https://cerebrum101.github.io/Site">Atay{version}</a>, © {year}
+          Made by <a href="https://cerebrum101.github.io/Site">Atay</a>, © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
