@@ -21,11 +21,11 @@ tags:
 **Когда выходят результаты?** Результаты теперь приходят онлайн, в течение пяти дней. До 2023 года этот срок был значительно больше.
 
 Смотрите также:
-О математике в digital SAT [[Sat Math]] <!--  -->
+О математике в digital SAT
 
-[[SAT to UNT conversion]]  - Конвертация SAT в ЕНТ<!--  -->
-
-[[UNIS without SAT]] <!--  -->
+- [[Sat Math]] <!--  -->
+- [[SAT to UNT conversion]]  
+- [[UNIS without SAT]] <!--  -->
 
 
 *Author: [yuna](https://t.me/auilt)*
