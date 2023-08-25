@@ -20,7 +20,7 @@ Passport to Advanced Math включает следующие типы вопр�
 5. Задачи, направленные на вычисление и манипуляции с корнями и степенями. 
 
 Если вы хотите успешно подготовиться к этому разделу, рекомендуем  использовать курс на Khan Academy, который поможет вам улучшить свои навыки:
- [Khan Academy - Passport to Advanced Math Lessons] (https://www.khanacademy.org/test-prep/sat/new-sat-tips-planning/about-the-sat-math-test/a/passport-to-advanced-math-lessons-by-skill). 🎓
+ [Khan Academy - Passport to Advanced Math Lessons](https://www.khanacademy.org/test-prep/sat/new-sat-tips-planning/about-the-sat-math-test/a/passport-to-advanced-math-lessons-by-skill). 
 
  Удачи вам на экзамене!
  

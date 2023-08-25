@@ -1,5 +1,5 @@
 ---
-title: Guide for Applicants
+title: 
 enableToc: true
 openToc: false
 tags:
@@ -48,8 +48,9 @@ bunch of text
 bunch of text 
 bunch of text 
 
-<!-- Backlinks -->
-
+<!-- Front links -->
+Смотрите также:
+- 
 
 
 

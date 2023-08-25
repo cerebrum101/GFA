@@ -25,6 +25,7 @@ openToc: false
 - [[Standardized Tests ]]
 - [[how to get into MIT | Как поступить в MIT]]
 - [[How to get into NU | Как поступить в Назарбаев Университет]]
+- 
 
 Следите за нами в социальных сетях:
 - [Instagram](https://www.instagram.com/guideforapplicants) 
