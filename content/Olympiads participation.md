@@ -3,12 +3,9 @@ title: "Olympiads participation"
 enableToc: true
 openToc: false
 tags:
-- guide 
 - advice 
 - extracurriculars
 - helpful-resources
-- career-choice
-- self-help
 ---
 
 ✨Participation in the Olympiads: Why It Matters✨

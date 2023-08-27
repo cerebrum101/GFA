@@ -12,11 +12,14 @@ tags:
 ---
 Choosing major is an important part of application process
 
-See a list a description of a list of majors:
+Overview of different majors:
 - [[Mathematics major]]
 - [[Computer Science Major]]
 - [[Business Major]]
-- 
+- [[Bio engineering info]]
+
+Career:
+- [[Career after university]]
 
 <!-- Backlinks -->
 

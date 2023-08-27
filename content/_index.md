@@ -25,6 +25,7 @@ openToc: false
 - [[Standardized Tests ]]
 - [[how to get into MIT | Как поступить в MIT]]
 - [[How to get into NU | Как поступить в Назарбаев Университет]]
+- [[Major overview]]
 - 
 
 Следите за нами в социальных сетях:

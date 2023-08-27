@@ -27,11 +27,8 @@ First of all, вы пройдете регистрацию при входе в 
 
 
 *Author: [yuna](https://t.me/auilt)*
-Date: 02-08-2023
-tags:
 
-## **Выбрать нужные теги:**
-Тип статьи:
+
 #guide 
 #exams 
 #kazakhstan

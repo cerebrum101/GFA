@@ -20,12 +20,11 @@ Extracurricular activities, или внеклассные активности, 
 - Быть президентом школы, капитаном спортивной команды или звездой ежегодного школьного мюзикла — все это впечатляющие достижения, которые помогают показать ваши лидерские качества.
 - В мире множество возможностей для развития своих навыков, поэтому каждый может найти для себя ряд разных занятий.
 
-*Author: [yuna](https://t.me/auilt)
-Date: 03-08-2023
 
-#guide
-#extracurriculars
-#usa
-#eu
-#asia
-#self-help
+
+*Author: [yuna](https://t.me/auilt)
+
+See also:
+- [[Leadership in High School]]
+- [[Olympiads participation]]
+- [[Competitive programming]]

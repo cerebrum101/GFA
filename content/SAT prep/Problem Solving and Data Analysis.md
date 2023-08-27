@@ -33,4 +33,3 @@ Problem Solving and Data Analysis (задачи и анализ данных)
 
 Удачи вам на экзамене!
 
-[[Sat Math]]

@@ -1,5 +1,5 @@
 ---
-title: Interview with DSD student
+title: Интервью со студентом DSD в Германии
 enableToc: true
 openToc: false
 tags:

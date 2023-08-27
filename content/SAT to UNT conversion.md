@@ -27,12 +27,5 @@ tags:
 Удачи при поступлении!
 
 *Author: [bal](https://t.me/baalkaa)
-Date: 03-08-2023
-tags:
-Тип статьи:
 
-#guide 
-#helpful-resources
-#self-help
-#exams 
-#unt
+

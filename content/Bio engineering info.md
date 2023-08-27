@@ -35,24 +35,7 @@ tags:
 
 _Author: [Ultimattum](https://t.me/Ultimattum)_
 
-Date: 03-08-2023
 
-[[Bio engineering info]]
-[[SAT to UNT conversion]]
-
-tags:
-#guide 
-#advice
-#career-choice
-#kazakhstan
-#universities-info
-#college-list 
-#usa
-#eu
-#asia
-#turkey
-#canada 
-#unt
 
 
 

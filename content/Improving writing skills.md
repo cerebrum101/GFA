@@ -39,14 +39,11 @@ tags:
 Желаем вам успехов в развитии writing skills! 💖
 
 *Author: [yuna](https://t.me/auilt)
-Date: 03-08-2023
-tags:
-Тип статьи:
 
-#guide 
-#advice
-#essays 
-#IELTS 
+Смотрите также:
+- [[Motivational letter]]
+- 
+
 
 
 
