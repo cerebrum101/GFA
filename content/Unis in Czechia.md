@@ -6,7 +6,6 @@ tags:
 - guide 
 - universities-info
 - country-choice 
-- 
 ---
 # 1. Charles University
 
