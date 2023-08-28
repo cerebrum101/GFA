@@ -43,7 +43,6 @@ So пробуйте себя во всем, но
 
 
 *Author: [yuna](https://t.me/auilt)*  
-Date: 03-08-2023
 
 tags:
 #guide

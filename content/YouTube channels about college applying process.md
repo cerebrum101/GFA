@@ -31,9 +31,7 @@ tags:
 
 
 *Author: [Ultimattum](https://t.me/Ultimattum)
-Date: 03-08-2023
 
-tags:
 #helpful-resources 
 #universities-info 
 #usa

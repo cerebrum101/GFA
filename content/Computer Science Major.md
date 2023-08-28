@@ -44,8 +44,6 @@ Computer science majors typically study a wide range of subjects related to comp
 
 *Copywriter: [@thefururebillionare](https://t.me/thefururebillionare)*
 
-*Date: 03-08-2023*
-
 tags: 
 #guide 
 #advice

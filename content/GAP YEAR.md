@@ -51,8 +51,6 @@ Gap year- это год паузы между школой и вузом.
 
 
 *Author: [yuna](https://t.me/auilt)
-Date: 02-08-2023
-tags:
 
 #guide 
 #disclaimer

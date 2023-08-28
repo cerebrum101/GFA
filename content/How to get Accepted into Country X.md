@@ -10,6 +10,6 @@ openToc: false
 - [[How to get accepted to Germany | Как поступить в Германию]] 
 - [[How to get accepted to Italy | Как поступить в Италию]]
 - [[Applying to France | Как поступить во Францию]]
-- [[Applying to Turkey | Подача в Турцию]]
+- [[Applying to Koc Uni| Подача в Турцию]]
 
 

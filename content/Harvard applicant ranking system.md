@@ -70,9 +70,8 @@ How do they rate your “personal”? Usually, they get it from applicants' essa
 
 Wish y’all well.
 
-Author: [JaM0rant](https://www.instagram.com/?hl=en)(tg/inst link)
-Date: 31-07-2023
-Tags:
+Author: [JaM0rant](https://www.instagram.com/?hl=en)
+
 Тип статьи:
 #guide 
 #advice
@@ -82,6 +81,5 @@ Tags:
 #usa
 #academics
 #extracurriculars
-
 
 [[Why Not to Apply to Ivy League]]

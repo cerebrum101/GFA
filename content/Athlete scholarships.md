@@ -42,16 +42,6 @@ tags:
 
 4. Также советуем держать общение с тренерами, так как они могут дать оффер, на который вы должны либо согласиться, либо отказаться.
 
-Копирайтер @
-
-*Author: [Ultimattum](https://t.me/Ultimattum)
-Date: 03-08-2023
-tags:
-
-*Author: [yuna](https://t.me/auilt)
-Date: 03-08-2023
-tags:
-Тип статьи:
 
 #guide 
 #disclaimer

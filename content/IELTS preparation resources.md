@@ -28,7 +28,6 @@ master._.sat, interpress.
 *Author: [yuna](https://t.me/auilt)*  
 Date: 03-08-2023
 
-tags:
 #guide
 #advice
 #helpful-resources

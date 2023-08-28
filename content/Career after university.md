@@ -90,7 +90,8 @@ Headhunter - поиск работы и сотрудников.
 Полезно также использовать instagram, telegram, vk и другие соц. сети для поиска возможностей и различных комьюнити.
 
 *Author: [Atay](https://t.me/ataywork)
-Date: 10-03-2023
+
+
 tags:
 
 #guide 

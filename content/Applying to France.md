@@ -48,8 +48,6 @@ tags:
 ![](https://img4.teletype.in/files/bf/f9/bff969a6-3e87-4965-a5d3-0ab3350ae263.jpeg)
 
 *Author: [@khanifa](https://teletype.in/@khanifa)
-Date: 03-08-2023
-tags:
 
 #guide 
 #college-list

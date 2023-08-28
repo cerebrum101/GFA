@@ -28,7 +28,6 @@ tags:
 
 
 *Author: [thefururebillionare](https://t.me/thefururebillionare)
-Date: 03-08-2023
 
 #guide 
 #advice 

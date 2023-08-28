@@ -25,8 +25,6 @@ tags:
 9. Education USA Kazakhstan: туториалы по Common App, CSS, вебинары по всем аспектам по поступлению в 🇺🇸 и интервью с поступившими.        
 
 *Author: [Atay](https://t.me/ataywork)
-Date: 03-08-2023
-tags:
 
 #advice
 #career-choice

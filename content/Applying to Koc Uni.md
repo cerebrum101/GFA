@@ -73,9 +73,6 @@ Koç University - один из ведущих вузов в Турции, и х
 Так что следите за календарем и успейте подать!
 
 ### Автор: [Atay](https://t.me/ataywork)
-Дата: 03-08-2023
-
-tags:
 #guide
 #career-choice
 #college-list
