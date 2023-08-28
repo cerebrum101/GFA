@@ -1,5 +1,5 @@
 ---
-title:Высшие учебные заведения Канады
+title: Высшие учебные заведения Канады
 enableToc: true
 openToc: false
 tags:
