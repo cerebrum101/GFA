@@ -63,11 +63,10 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
   }`
 }
 
-const encoder = (str: string) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/)
+const encoder = (str: string) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F\u0400-\u04FF])/);
 let prevShortcutHandler: ((e: HTMLElementEventMap["keydown"]) => void) | undefined = undefined
 document.addEventListener("nav", async (e: unknown) => {
   const currentSlug = (e as CustomEventMap["nav"]).detail.url
-
   const data = await fetchData
   const container = document.getElementById("search-container")
   const sidebar = container?.closest(".sidebar") as HTMLElement
