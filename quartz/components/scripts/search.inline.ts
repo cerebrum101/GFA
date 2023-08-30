@@ -147,7 +147,7 @@ document.addEventListener("nav", async (e: unknown) => {
   }
 
   async function onType(e: HTMLElementEventMap["input"]) {
-    const term = (e.target as HTMLInputElement).value
+    const term = (e.target as HTMLInputElement).value.toLowerCase();
     const searchResults = (await index?.searchAsync(term, numSearchResults)) ?? []
     const getByField = (field: string): number[] => {
       const results = searchResults.filter((x) => x.field === field)
