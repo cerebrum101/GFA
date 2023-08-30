@@ -31,7 +31,9 @@ tags:
 
 <!-- Front links -->
 Смотрите также:
-- 
+- [[Unis in Japan]]
+- [[Applying to China]]
+- [[Applying to Korea]]
 
 
 
