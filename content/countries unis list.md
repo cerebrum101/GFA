@@ -6,7 +6,6 @@ tags:
 - universities-info
 - country-choice 
 - college-list
-- 
 ---
 ### Подборки некоторых университетов в разных странах
 
