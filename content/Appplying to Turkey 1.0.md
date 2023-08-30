@@ -1,49 +1,13 @@
 ---
-title: 
+title: Высшее образование в Турции
 enableToc: true
 openToc: false
-tags:
-#Тип статьи:
-- guide 
-- ad
-- disclaimer
-- interview
-- advice
-- instagram-post 
-#Тема статьи:
-- career-choice
-- extracurriculars
-- college-list
-- awards
-- scholarship-info
+tags: 
 - universities-info
-- helpful-resources
 - country-choice 
-- sat
-- IELTS
-- exams 
-- essays
-- unt
-#Страна поступления:
-- usa
-- eu
-- asia
-- eu/italy
-- eu/germany
-- eu/france
+- college-list
 - turkey
-- canada
-- kazakhstan
-- asia/china 
-- asia/hong-kong
-#Дополнительно:
-- internship 
-- self-help
-- masters
-- PhD
 ---
-# Высшее образование в Турции
-
 ## _Турция – это страна, которая идеально подходит для студентов!_ Социальные клубы, спортивные команды и культурные мероприятия в каждом университете объединяют студентов и сближают географические зоны.Турецкий диплом признан среди стран Европейского Союза. Также Турция участвует в Европейском пространстве высшего образования и прекрасно реализует Болонский процесс. Кредитная система турецких ВУЗов соответствует всем стандартам стран Европы.
 
 ## _Цена за обучение._ Цена за обучение начинается от 500 USD. Затраты на проживание и питание зависит от студента но если назвать достаточный минимум это 5 500 USD в год.
@@ -62,7 +26,8 @@ tags:
 
 <!-- Front links -->
 Смотрите также:
-- 
+- [[Unis in Turkey]]
+
 
 
 

@@ -3,27 +3,9 @@ title: Высшее образование в Польше
 enableToc: true
 openToc: false
 tags:
-#Тип статьи:
 - guide 
-- ad
-- disclaimer
-- interview
-- advice
-- instagram-post 
-#Тема статьи:
-- career-choice
-- extracurriculars
-- college-list
-- awards
-- scholarship-info
 - universities-info
-- helpful-resources
 - country-choice 
-- sat
-- IELTS
-- exams 
-- essays
-- unt
 - eu/poland
 ---
 ## _Высшее образование в Польше_ - отличный выбор для тех, кто желает получить европейское образование по приемлемым ценам.

@@ -6,6 +6,7 @@ tags:
 - guide 
 - universities-info
 - country-choice 
+- eu/czechia
 ---
 # 1. Charles University
 

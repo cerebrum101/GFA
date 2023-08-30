@@ -1,49 +1,13 @@
 ---
-title: 
+title: Высшее образование в Китае
 enableToc: true
 openToc: false
 tags:
-#Тип статьи:
 - guide 
-- ad
-- disclaimer
-- interview
-- advice
-- instagram-post 
-#Тема статьи:
-- career-choice
-- extracurriculars
-- college-list
-- awards
-- scholarship-info
 - universities-info
-- helpful-resources
 - country-choice 
-- sat
-- IELTS
-- exams 
-- essays
-- unt
-#Страна поступления:
-- usa
-- eu
-- asia
-- eu/italy
-- eu/germany
-- eu/france
-- turkey
-- canada
-- kazakhstan
-- asia/china 
-- asia/hong-kong
-#Дополнительно:
-- internship 
-- self-help
-- masters
-- PhD
+- asia/china
 ---
-# Высшее образование в Китае
-
 ## В 1998 г. был подписан _«Закон о высшем образовании КНР»_, который превратил вузы страны в университеты с мировым уровнем, с лучшими профессорами и уникальными лабораториями, благодаря которым Китай теперь по праву можно назвать инновационным чудом.
 
 ## _Цена за обучение._ В Китае стоимость обучения для иностранцев начинается от 3 000-4 000 USD в год.

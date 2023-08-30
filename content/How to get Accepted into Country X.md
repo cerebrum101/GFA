@@ -10,6 +10,17 @@ openToc: false
 - [[How to get accepted to Germany | Как поступить в Германию]] 
 - [[How to get accepted to Italy | Как поступить в Италию]]
 - [[Applying to France | Как поступить во Францию]]
-- [[Applying to Koc Uni| Подача в Турцию]]
+- [[Appplying to Turkey 1.0| Подача в Турцию]]
+- [[Applying to Japan | Высшее образование в Японии]]
+- [[Applying to Canada| Высшее образование в Канаде]]
+- [[Applying to China| Высшее образование в Китае ]]
+- [[Applying to Korea| Высшее образование в Корее ]]
+- [[Applying to Czechia| Высшее образование в Чехии]]
+- [[Applying to Poland| Высшее образование в Польше]]
+- [[Applying to UK| Высшее образование в Великобритании ]]
+
+Смотрите также:
+- [[Application periods]]
+- 
 
 
