@@ -175,7 +175,7 @@ document.addEventListener("nav", async (e: unknown) => {
   if (!index) {
     index = new Document({
       cache: true,
-      charset: "latin:extra",
+      charset: "utf:extra",
       optimize: true,
       encode: encoder,
       document: {

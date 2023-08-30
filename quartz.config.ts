@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "www.guideforapplicnats.live",
-    ignorePatterns: ["private", "templates"],
+    ignorePatterns: ["private", "templates", "archive"],
     theme: {
       typography: {
         header: "Schibsted Grotesk",
