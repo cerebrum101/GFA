@@ -1,5 +1,5 @@
 ---
-title: Как поступить в США?
+title: Common App
 enableToc: true
 openToc: false
 tags:
@@ -26,23 +26,7 @@ tags:
 - unt
 #Страна поступления:
 - usa
-- eu
-- asia
-- eu/italy
-- eu/germany
-- eu/france
-- turkey
-- canada
-- kazakhstan
-- asia/china 
-- asia/hong-kong
-#Дополнительно:
-- internship 
-- self-help
-- masters
-- PhD
 ---
-
 Основная платформа по подаче в ВУЗы США на бакалавриат - это Common App. 
 
 На портале вам нужно будет указать:
@@ -62,11 +46,11 @@ tags:
 
 Не все ВУЗы в США принимают Common App, некоторые используют свои порталы для подачи, поэтому там некоторые аспекты подачи могут отличаться от перечисленного выше.
 
-Такие университеты как [[how to get into MIT | MIT]] , UC Berkley, etc - не используют Common App.
-
+Такие университеты как [[how to get into MIT | MIT]] , UC Colleges, Georgetown etc - не используют Common App, а свои порталы.
 <!-- Front links -->
 Смотрите также:
-- 
+- [[Motivational letter]]
+- [[Standardized Tests]]
 
 
 
