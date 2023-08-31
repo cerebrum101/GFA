@@ -23,7 +23,6 @@ openToc: false
 Исследуйте сайт, начиная с следующих разделов:
 - [[How to get Accepted into Country X| Как поступить в страну X]]
 - [[Standardized Tests ]]
-- [[how to get into MIT | Как поступить в MIT]]
 - [[How to get into NU | Как поступить в Назарбаев Университет]]
 - [[Major overview]]
 

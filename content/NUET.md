@@ -26,13 +26,7 @@ First of all, вы пройдете регистрацию при входе в 
 вся команда GFA желает удачи тем кто скоро будет сдавать НУЕТ!!!
 
 
-*Author: [yuna](https://t.me/auilt)*
 
-
-#guide 
-#exams 
-#kazakhstan
-#disclaimer
 
 
 
