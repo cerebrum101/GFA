@@ -25,6 +25,7 @@ openToc: false
 - [[Standardized Tests ]]
 - [[How to get into NU | Как поступить в Назарбаев Университет]]
 - [[Major overview]]
+- [[Applying to USA | Поступление в США]]
 
 Следите за нами в социальных сетях:
 - [Instagram](https://www.instagram.com/guideforapplicants) 
