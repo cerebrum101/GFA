@@ -82,7 +82,7 @@ tags:
 	- [Гайд по подготовке к NUET](https://ask.bc-pf.org/t/gajd-po-podgotovke-k-nuet-i-nemnogo-pro-moj-opyt/6616)
 3. Вступайте в сообщества в телеграме:
    - [NU prep](https://t.me/nu_preparation) - чат абитуриентов НУ
-   - [NU ID 24] - сообщество поступающих в 2024 году. 
+   - [NU ID 24](https://t.me/nuid24) - сообщество поступающих в 2024 году. 
    - [Наш чат](https://t.me/guideforapplicants)
 
 Команда GFA желает вам удачи в поступлении!
