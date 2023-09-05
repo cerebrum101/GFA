@@ -3,18 +3,19 @@ title: Как подобрать страну для обучения?
 enableToc: true
 openToc: false
 tags:
-- guide 
-- advice
-- career-choice
-- college-list
-- universities-info
-- country-choice 
-- usa
-- eu
-- asia
-- turkey
-- canada
-- kazakhstan
+  - guide
+  - advice
+  - career-choice
+  - college-list
+  - universities-info
+  - country-choice
+  - usa
+  - eu
+  - asia
+  - turkey
+  - canada
+  - kazakhstan
+draft: true
 ---
 ## Как подобрать страну для обучения? 
 

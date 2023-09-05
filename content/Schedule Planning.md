@@ -1,19 +1,12 @@
 ---
-title: TOEFL vs IELTS
+title: Тайм-менеджмент
 enableToc: true
 openToc: false
 tags:
-- guide
-- advice 
-- helpful-resources
-- IELTS
-- exams
-- usa
-- eu
-- asia
-- turkey
-- canada
-- kazakhstan
+  - guide
+  - advice
+  - helpful-resources
+  - exams
 ---
 📌КАК ОРГАНИЗОВАТЬ СВОЙ ГРАФИК ПРИ БОЛЬШОЙ НАГРУЗКЕ? 📌
 
@@ -38,10 +31,4 @@ tags:
 ❗️❗️Удачи всем и надеюсь вы сможете все успеть!🍀
 
 *Author: [baalkaa](https://t.me/baalkaa)
-Date: 03-08-2023
-tags:
 
-#guide 
-#advice
-#helpful-resources
-#self-help
