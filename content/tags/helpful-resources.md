@@ -6,7 +6,7 @@ tags:
   - helpful-resources
 draft: true
 ---
-Use the helpful sites, channels, accounts:
+Use the helpful sites, channels, social media accounts:
 - [[YouTube channels about college applying process]]
 - [[YouTube channels about college applying process V2]]
 - [[uni finding sources]]
