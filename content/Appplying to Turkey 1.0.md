@@ -27,6 +27,7 @@ tags:
 <!-- Front links -->
 Смотрите также:
 - [[Unis in Turkey]]
+- [[Applying to Koc Uni]]
 
 
 

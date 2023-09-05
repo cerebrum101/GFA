@@ -4,21 +4,18 @@ enableToc: true
 openToc: false
 tags:
   - guide
-  - career-choice
   - college-list
   - scholarship-info
   - universities-info
   - country-choice
-  - sat
-  - exams
   - turkey
 ---
 ## Подача в Турцию 🇹🇷 На примере Koç University
 
 ### Немного статистики:
-- QS: #477 in the World
-- Times Higher Education: #401 in the World
-- USNews: #679 in the World
+- QS: # 477 in the World
+- Times Higher Education: # 401 in the World
+- USNews: # 679 in the World
 
 Koç University - один из ведущих вузов в Турции, и хотя он является исключением по своим требованиям, другие вузы могут требовать те же или часть документов, представленных далее.
 
