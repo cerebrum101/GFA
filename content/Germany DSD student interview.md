@@ -3,15 +3,15 @@ title: Интервью со студентом DSD в Германии
 enableToc: true
 openToc: false
 tags:
-- interview
-- advice
-- college-list
-- awards
-- scholarship-info
-- universities-info
-- country-choice
-- exams
-- eu/germany
+  - interview
+  - advice
+  - college-list
+  - awards
+  - scholarship-info
+  - universities-info
+  - country-choice
+  - exams
+  - eu/germany
 ---
 # ✨Сегодня у нас интервью с Миленой, которая поступила в Германию🇩🇪 🇩🇪🇩🇪
 
@@ -39,17 +39,9 @@ tags:
 Автор: [baalkaa](https://t.me/baalkaa)
 
 Смотрите также:
-- 
+- [[How to get accepted to Germany]]
 
-#interview
-#advice
-#college-list
-#awards
-#scholarship-info
-#universities-info
-#country-choice 
-#exams
-#eu/germany
+
 
 
 

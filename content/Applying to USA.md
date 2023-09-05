@@ -34,6 +34,8 @@ tags:
 Смотрите также:
 - [[common app]]
 - [[NYUAD student interview]]
+- [[Harvard applicant ranking system]]
+- [[Why Not to Apply to Ivy League]]
 
 
 

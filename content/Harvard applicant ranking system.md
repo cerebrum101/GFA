@@ -1,25 +1,17 @@
 ---
-title:
----
-
----
-title: How Harvard Rates Applicants
+title: How Harvard rates YOU?
 enableToc: true
-openToc: false
+openToc: 
 tags:
-- guide
-- advice
-- interview
-- college-list
-- helpful-resources
-- usa
-- academics
-- extracurriculars
+  - usa
+  - guide
+  - advice
+  - universities-info
+  - extracurriculars
+  - awards
+  - interview
+  - exams
 ---
-
-
-# **How Harvard rates YOU?**
-
 What’s up, applicants! In the contemporary world, the USA is an education powerhouse. Consequently, there is a huge competition between universities to be the best. Nevertheless, there is always one winner - Harvard University. It is not a secret that getting into Harvard is a big deal. So, today you are going to get some information about this college’s inner kitchen.
 
 Harvard admission rates applicants on a score of 1-6 in these categories:
@@ -77,7 +69,5 @@ Wish y’all well.
 
 Author: [JaM0rant](https://www.instagram.com/?hl=en)
 
-Тип статьи
-
-
-[[Why Not to Apply to Ivy League]]
+See also:
+- [[Why Not to Apply to Ivy League]]

@@ -3,21 +3,13 @@ title: Competitive Programming
 enableToc: true
 openToc: false
 tags:
-- guide
-- advice
-- career-choice
-- extracurriculars
-- helpful-resources
-- usa
-- eu
-- asia
-- turkey
-- canada
-- kazakhstan
-- internship
+  - guide
+  - advice
+  - career-choice
+  - extracurriculars
+  - helpful-resources
+  - internship
 ---
-
-
 
 💻 **Are you looking for an extracurricular activity that will help you develop your problem-solving skills, boost your confidence, and set you apart from your peers? Look no further than competitive programming!**
 
@@ -40,21 +32,11 @@ In conclusion, competitive programming is a challenging but rewarding extracurri
 
 _Copywriter: [Chugajan](https://t.me/Chugajan)_
 
-[[Computer Science Major]]
+See also:
+- [[Computer Science Major]]
+- [[Major overview]]
 
-#guide 
-#advice
-#career-choice
-#extracurriculars
-#awards
-#helpful-resources
-#usa
-#eu
-#asia
-#turkey
-#canada
-#kazakhstan
-#internship 
+
 
 
 

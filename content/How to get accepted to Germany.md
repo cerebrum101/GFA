@@ -47,7 +47,7 @@ tags:
 
 Смотрите также:
 - [[Germany DSD student interview]]
-- [[]]
+- [[Applying to UK]]
 
 
 

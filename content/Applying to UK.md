@@ -27,7 +27,9 @@ tags:
 
 <!-- Front links -->
 Смотрите также:
-- [[]]
+- [[Applying to USA]]
+- [[Unis in Canada]]
+- [[IELTS info]]
 
 
 

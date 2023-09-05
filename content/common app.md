@@ -3,29 +3,10 @@ title: Common App
 enableToc: true
 openToc: false
 tags:
-#Тип статьи:
-- guide 
-- ad
-- disclaimer
-- interview
-- advice
-- instagram-post 
-#Тема статьи:
-- career-choice
-- extracurriculars
-- college-list
-- awards
-- scholarship-info
-- universities-info
-- helpful-resources
-- country-choice 
-- sat
-- IELTS
-- exams 
-- essays
-- unt
-#Страна поступления:
-- usa
+  - guide
+  - disclaimer
+  - essays
+  - usa
 ---
 Основная платформа по подаче в ВУЗы США на бакалавриат - это Common App. 
 
