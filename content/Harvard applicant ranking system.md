@@ -1,3 +1,6 @@
+---
+title:
+---
 
 ---
 title: How Harvard Rates Applicants
@@ -13,6 +16,8 @@ tags:
 - academics
 - extracurriculars
 ---
+
+
 # **How Harvard rates YOU?**
 
 What’s up, applicants! In the contemporary world, the USA is an education powerhouse. Consequently, there is a huge competition between universities to be the best. Nevertheless, there is always one winner - Harvard University. It is not a secret that getting into Harvard is a big deal. So, today you are going to get some information about this college’s inner kitchen.
@@ -72,14 +77,7 @@ Wish y’all well.
 
 Author: [JaM0rant](https://www.instagram.com/?hl=en)
 
-Тип статьи:
-#guide 
-#advice
-#interview
-#college-list
-#helpful-resources
-#usa
-#academics
-#extracurriculars
+Тип статьи
+
 
 [[Why Not to Apply to Ivy League]]

@@ -3,15 +3,14 @@ title: Полезные каналы связанные с поступлени�
 enableToc: true
 openToc: false
 tags:
-- advice
-- career-choice
-- universities-info
-- helpful-resources
-- country-choice 
-- exams
-- usa
-- kazakhstan
-- self-help
+  - advice
+  - career-choice
+  - universities-info
+  - helpful-resources
+  - country-choice
+  - exams
+  - usa
+  - kazakhstan
 ---
 # 📺 Полезные каналы связанные с поступлением
 1. Gohar Khan: MIT Alumnus, Полезные советы при поступлении и в написании эссе, ECs, Study Hacks. Gohar's Guide YouTube Channel: 

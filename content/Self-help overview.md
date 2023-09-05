@@ -3,54 +3,15 @@ title:
 enableToc: true
 openToc: false
 tags:
-#Тип статьи:
-- guide 
-- ad
-- disclaimer
-- interview
-- advice
-- instagram-post 
-#Тема статьи:
-- career-choice
-- extracurriculars
-- college-list
-- awards
-- scholarship-info
-- universities-info
-- helpful-resources
-- country-choice 
-- sat
-- IELTS
-- exams 
-- essays
-- unt
-#Страна поступления:
-- usa
-- eu
-- asia
-- eu/italy
-- eu/germany
-- eu/france
-- turkey
-- canada
-- kazakhstan
-- asia/china 
-- asia/hong-kong
-#Дополнительно:
-- internship 
-- self-help
-- masters
-- PhD
+  - self-help
 ---
-bunch of text 
-bunch of text 
-bunch of text
-bunch of text 
-bunch of text 
+Смотрите наши посты по саморазвитию:
+- [[Dealing with burnout]]
+- [[Schedule Planning]]
+- [[Task Management systems]]
+- [[How to develop discipline for studying]]
 
 <!-- Front links -->
-Смотрите также:
-- 
 
 
 

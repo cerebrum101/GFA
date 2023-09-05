@@ -1,20 +1,14 @@
 ---
-title: Периоды подачи в университеты. 
+title: Периоды подачи в университеты.
 enableToc: true
 openToc: false
 tags:
-- guide
-- college-application
-- admissions
-- early-decision
-- early-action
-- regular-decision
-- usa
-- eu
-- asia
-- turkey
-- canada
-- kazakhstan
+  - guide
+  - usa
+  - eu
+  - asia
+  - canada
+  - ca
 ---
 Какой из них лучше? 
 📌Существует три периода подачи документов в университеты: ранняя подача, средняя подача и поздняя подача (early decision/early action/regular decision)

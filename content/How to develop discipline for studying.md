@@ -1,10 +1,11 @@
 ---
 title: Как развить дисциплину во время учебы?
 tags:
-- guide
-- advice
-- self-help
-- exams
+  - guide
+  - advice
+  - self-help
+  - exams
+draft: true
 ---
 
 # Как развить дисциплину во время учебы?
