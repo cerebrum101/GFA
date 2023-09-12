@@ -32,10 +32,12 @@ tags:
 
 <!-- Front links -->
 Смотрите также:
+- [[Unis in USA]]
 - [[common app]]
 - [[NYUAD student interview]]
 - [[Harvard applicant ranking system]]
 - [[Why Not to Apply to Ivy League]]
+
 
 
 
