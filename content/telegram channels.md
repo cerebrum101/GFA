@@ -13,14 +13,12 @@ draft: false
 - [Asian Face](https://t.me/asianface_kz)
 - [Паша Гарвард](https://t.me/pasha_harvard)
 - [Edu USA Astana](https://t.me/edusa_astana), [Almaty](https://t.me/educationusa_almaty)
-- [The Resources](https://t.me/theresources)
 - [T-chance](https://t.me/tchance)
 - [Ells' acceptance letter](https://t.me/ellsletter)
-- [Useful Stuff](https://t.me/usefulstuffs)
 - [Education USA Virtual](https://t.me/EdUSA_Virtual)
 - [IvyMind](https://t.me/ivymind)
 
-**Подписаться на все каналы сразу:**
+**Подписаться на все каналы сразу: https://t.me/addlist/qDyx17FXscU0MmVi**
 
 Каналы с информацией о **возможностях**. Potential Extracurriculars, Olympiads, Contests, Projects. А также международные Гранты, Стипендии, Стажировки, Инкубаторы, Курсы и прочее:
 
@@ -35,6 +33,8 @@ draft: false
 - [The EXR Media](https://t.me/exrmedia)
 - [Growth Street](https://t.me/growthstreetchannel)
 - [Жанна | Возможности](https://t.me/zhanna_opportunities)
+- [Useful Stuff](https://t.me/usefulstuffs)
+- [The Resources](https://t.me/theresources)
 
 IT 🇰🇿:
 
@@ -44,7 +44,7 @@ IT 🇰🇿:
 - [Opportunity for you](https://t.me/oppo4you)
 - [TSARKA](https://t.me/certkznews)
 
-**Подписаться на все каналы сразу:**
+**Подписаться на все каналы сразу: https://t.me/addlist/UK_XC5y-6Oo3OWQy**
 
 Олимпиадная математика :
 
