@@ -11,7 +11,7 @@ draft: false
 - [Guide for Applicants](https://t.me/guideforapplicants_c)
 - [College Hub](https://t.me/collegehub)
 - [Asian Face](https://t.me/asianface_kz)
-- [Паша ГарвардЖ](https://t.me/pasha_harvard)
+- [Паша Гарвард](https://t.me/pasha_harvard)
 - [Edu USA Astana](https://t.me/edusa_astana), [Almaty](https://t.me/educationusa_almaty)
 - [The Resources](https://t.me/theresources)
 - [T-chance](https://t.me/tchance)
