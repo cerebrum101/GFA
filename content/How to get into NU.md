@@ -79,7 +79,7 @@ tags:
 	- [[IELTS info | IELTS]]
 	- [[Digital SAT]]
 	- [[NUET | Об экзамене NUET]]
-	- [Гайд по подготовке к NUET](https://ask.bc-pf.org/t/gajd-po-podgotovke-k-nuet-i-nemnogo-pro-moj-opyt/6616)
+	- [Гайд по подготовке к NUET](https://ask.bc-pf.org/t/gajd-po-podgotovke-k-nuet-i-nemnogo-pro-moj-opyt/6616?u=arujean)
 3. Вступайте в сообщества в телеграме:
    - [NU prep](https://t.me/nu_preparation) - чат абитуриентов НУ
    - [NU ID 24](https://t.me/nuid24) - сообщество поступающих в 2024 году. 
