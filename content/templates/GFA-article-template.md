@@ -4,7 +4,6 @@ enableToc: true
 openToc: false
 tags:
   - guide
-  - interview
   - advice
   - self-help
   - masters
